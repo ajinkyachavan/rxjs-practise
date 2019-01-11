@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10.
@@ -27,6 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# rxjs-practise
-Playing with Rxjs
->>>>>>> d5484ff7303ca797a4d1cda78f262df311cadb47
+
