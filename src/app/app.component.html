@@ -1,5 +1,26 @@
 <div>
+  <div class="row">
+    <div class="counter">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="employees">
+              <p class="counter-count"> {{ counterValue }} </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div>
-    <button #input>Click me</button>
+    <div class="row">
+      <button
+        (click)="start()"
+        #startButton
+      >Start</button>
+    </div>
+    <div>
+      <button (click)="stop()">Stop</button>
+    </div>
   </div>
 </div>
